@@ -9,7 +9,7 @@
 		<script src="http://code.jquery.com/jquery-1.8.2.min.js"></script>
 		<script src="http://code.jquery.com/mobile/1.2.0/jquery.mobile-1.2.0.min.js"></script>
 		<!-- <script type="text/javascript" src="script.js"></script> -->
-		<script type="text/javascript" src="http://216.224.161.207/icgc/script.js"></script>
+		<!-- <script type="text/javascript" src="http://216.224.161.207/icgc/script.js"></script> -->
 
 		<link rel="stylesheet" href="css/style.css" />
 		<!-- <link rel="stylesheet" href="css/jquery.mobile-1.2.0.min.css" />
@@ -27,12 +27,12 @@
 		<link rel="stylesheet"  href="css/jquery.mobile-1.3.2.min.css">
 		<link rel="stylesheet" href="css/jqm-demos.css">
 		<link rel="shortcut icon" href="favicon.ico">
-<!-- 
+		<!--
 		<script>
-			function updateIndicator() {
-				document.getElementById('indicator').textContent = navigator.onLine ? '' : 'offline';
-				alert
-			}
+		function updateIndicator() {
+		document.getElementById('indicator').textContent = navigator.onLine ? '' : 'offline';
+		alert
+		}
 		</script> -->
 	</head>
 	<body onload="updateIndicator()" ononline="updateIndicator()" onoffline="updateIndicator()">
@@ -93,7 +93,7 @@
 			</div>
 
 			<div id='footer' data-role='footer'>
-				
+
 			</div>
 		</div>
 
@@ -101,28 +101,28 @@
 </html>
 <script type="text/javascript" >
 	// $(document).ready(function() {
-		// function updateIndicator() {
-			// document.getElementById('indicator').textContent = navigator.onLine ? 'online' : 'offline';
-		// };
-// 
-		// // var menuId = $("ul.nav").first().attr("id");
-		// var request = $.ajax({
-			// // url : "script.php",
-			// url : "http://216.224.161.207/icgc/pick.php",
-			// type : "GET",
-			// dataType : "html"
-		// });
-// 
-		// request.done(function(msg) {
-			// // alert(msg);
-			// $("#display").html(msg);
-		// });
-// 
-		// request.fail(function(jqXHR, textStatus) {
-			// $("#display").html("Request failed: Poor internet connection");
-		// });
-// 
-		// $('#slider').nivoSlider();
-	// }); 
+	// function updateIndicator() {
+	// document.getElementById('indicator').textContent = navigator.onLine ? 'online' : 'offline';
+	// };
+	//
+	// // var menuId = $("ul.nav").first().attr("id");
+	// var request = $.ajax({
+	// // url : "script.php",
+	// url : "http://216.224.161.207/icgc/pick.php",
+	// type : "GET",
+	// dataType : "html"
+	// });
+	//
+	// request.done(function(msg) {
+	// // alert(msg);
+	// $("#display").html(msg);
+	// });
+	//
+	// request.fail(function(jqXHR, textStatus) {
+	// $("#display").html("Request failed: Poor internet connection");
+	// });
+	//
+	// $('#slider').nivoSlider();
+	// });
 </script>
 

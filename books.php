@@ -9,7 +9,7 @@
 		<script src="http://code.jquery.com/jquery-1.8.2.min.js"></script>
 		<script src="http://code.jquery.com/mobile/1.2.0/jquery.mobile-1.2.0.min.js"></script>
 		<!-- <script type="text/javascript" src="script.js"></script> -->
-		<script type="text/javascript" src="http://216.224.161.207/icgc/script.js"></script>
+		<!-- <script type="text/javascript" src="http://216.224.161.207/icgc/script.js"></script> -->
 
 		<link rel="stylesheet" href="css/style.css" />
 		<!-- <link rel="stylesheet" href="css/jquery.mobile-1.2.0.min.css" />
