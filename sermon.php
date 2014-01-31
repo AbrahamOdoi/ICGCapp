@@ -62,14 +62,15 @@
 
 			<div id='content' data-role='content'>
 				<!-- <p style='vertical-align:center;color: gray;'>Dr. Otabil's quotes<img src="img/2_1.jpg" class="img_quote" style="float: left;"/></p> -->
-				<p class="p_quotes">
-					5th January 2014
+				<span class="date">5th January 2014</span>
+				<div class="p_quotes">
 					<br/>
-					Topic: Living with Jesus
+					<span class="date">Topic:</span><span class="label"> Living with Jesus</span>
 					<br/>
-					Passage: Philippians 3:1–11
+					<span class="date">Passage:</span><span class="label"> Philippians 3:1-11</span>
 					<br/>
-					Sermon:Philippians 3:1–11 has been a passage that has disturbed me for years. I would always struggle with the suffering mentioned in verse 10. As I studied it this time, though, God opened my eyes and allowed me to genuinely desire the fellowship with Christ that comes through suffering.
+					<br/>
+					Sermon:Philippians 3:1-11 has been a passage that has disturbed me for years. I would always struggle with the suffering mentioned in verse 10. As I studied it this time, though, God opened my eyes and allowed me to genuinely desire the fellowship with Christ that comes through suffering.
 					<br/>
 					<br/>
 					<br/>
@@ -79,133 +80,28 @@
 					<br/>
 					<br/>
 					<br/>
-				</p>
-				<p class="p_quotes">
-					Day2:
+				</div>
+				<br/>
+				<span class="date">12th January 2014</span>
+				<div class="p_quotes">
 					<br/>
-					Topic:
+					<span class="date">Topic:</span><span class="label"> Living with Jesus</span>
 					<br/>
-					Passage:
+					<span class="date">Passage:</span><span class="label"> Philippians 3:1-11</span>
 					<br/>
-					Sermon:
 					<br/>
+					Sermon:Philippians 3:1-11 has been a passage that has disturbed me for years. I would always struggle with the suffering mentioned in verse 10. As I studied it this time, though, God opened my eyes and allowed me to genuinely desire the fellowship with Christ that comes through suffering.
 					<br/>
 					<br/>
 					<br/>
-					Lessons:
 					<br/>
+					Lessons:  Rejoicing in the Lord, not in what you've done
 					<br/>
 					<br/>
 					<br/>
-				</p>
-				<p class="p_quotes">
-					Day3:
 					<br/>
-					Topic:
-					<br/>
-					Passage:
-					<br/>
-					Sermon:
-					<br/>
-					<br/>
-					<br/>
-					<br/>
-					Lessons:
-					<br/>
-					<br/>
-					<br/>
-					<br/>
-				</p>
-				<p class="p_quotes">
-					Day4:
-					<br/>
-					Topic:
-					<br/>
-					Passage:
-					<br/>
-					Sermon:
-					<br/>
-					<br/>
-					<br/>
-					<br/>
-					Lessons:
-					<br/>
-					<br/>
-					<br/>
-					<br/>
-				</p>
-				<p class="p_quotes">
-					Day5:
-					<br/>
-					Topic:
-					<br/>
-					Passage:
-					<br/>
-					Sermon:
-					<br/>
-					<br/>
-					<br/>
-					<br/>
-					Lessons:
-					<br/>
-					<br/>
-					<br/>
-					<br/>
-				</p>
-				<p class="p_quotes">
-					Day6:
-					<br/>
-					Topic:
-					<br/>
-					Passage:
-					<br/>
-					Sermon:
-					<br/>
-					<br/>
-					<br/>
-					<br/>
-					Lessons:
-					<br/>
-					<br/>
-					<br/>
-					<br/>
-				</p>
-				<p class="p_quotes">
-					Day7:
-					<br/>
-					Topic:
-					<br/>
-					Passage:
-					<br/>
-					Sermon:
-					<br/>
-					<br/>
-					<br/>
-					<br/>
-					Lessons:
-					<br/>
-					<br/>
-					<br/>
-					<br/>
-				</p>
-				<p class="p_quotes">
-					Day8:
-					<br/>
-					Topic:
-					<br/>
-					Passage:
-					<br/>
-					Sermon:
-					<br/>
-					<br/>
-					<br/>
-					<br/>
-					Lessons:
-					<br/>
-					<br/>
-					<br/>
-					<br/>
-				</p>
+				</div>
+
 			</div>
 
 			<div id='footer' data-role='footer'>

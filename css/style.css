@@ -14,15 +14,15 @@ a {
 a:visited {
 	color: #000000;
 }
-.nivoSliders{
+.nivoSliders {
 	white-space: nowrap;
 	overflow-x: scroll;
 	width: 100%;
 	height: auto;
 }
-.img_slide{
-	width:100%;
-	height:100%
+.img_slide {
+	width: 100%;
+	height: 100%
 }
 /*-----------------------------------------MAIN PAGE-------------------------------------MAIN PAGE-------------------------------------MAIN PAGE*/
 .div_header {
@@ -94,7 +94,17 @@ a:visited {
 	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5);
 }
 /*-----------------------------------QUOTES--------------------------------------------QUOTES--------------------------------------------QUOTES--------------------------------------------QUOTES-------------------*/
+.date {
+	font-weight: bolder;
+	color: #336600;
+}
+
+.label {
+	font-weight: bolder;
+}
+
 .p_quotes {
+	word-wrap: break-word;
 	font-size: 15px;
 	background-image: -webkit-gradient(
 	linear,
@@ -108,10 +118,9 @@ a:visited {
 	background-image: -webkit-linear-gradient(bottom, #E7F0EE 100%, #D9EBEB 100%);
 	background-image: -ms-linear-gradient(bottom, #E7F0EE 100%, #D9EBEB 100%);
 	background-image: linear-gradient(to bottom, #E7F0EE 100%, #D9EBEB 100%);
-	
-	color:#41857A;
+	color: #41857A;
 	box-shadow: 1px 1px 1px 1px silver;
 }
-.img_quote{
-	width:20%;
+.img_quote {
+	width: 20%;
 }

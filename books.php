@@ -62,23 +62,23 @@
 
 			<div id='content' data-role='content'>
 				<!-- <p style='vertical-align:center;color: gray;'>Dr. Otabil's quotes<img src="img/2_1.jpg" class="img_quote" style="float: left;"/></p> -->
+
+				<div class="p_quotes">
+					<a href="https://www.mensaotabil.com/products-page/ebooks/goal-setting-and-goal-getting/"><img src="img/books/GoalSetting.png" class="img_quote" style="float: left;"/></a>
+					<span class="date"><a href="https://www.mensaotabil.com/products-page/ebooks/goal-setting-and-goal-getting/">Setting and Goal Getting</a></span>
+					<br/>
+					Price: $6.00
+					<br/>
+					With no clear sense of where we are going, we are bound to settle for any destination. Without vision, we easily accept anything that comes our way and allow other people to set the agenda for our lives. That is why we ned to set goals and go on to achieve them. Setting goals requires that you learn from your past experiences, locate your current opportunities and launch boldly into your future.
+				</div>
 				<p class="p_quotes">
-					<!-- <img src="img/2_1.jpg" class="img_quote" style="float: left;"/> -->
+					<a href="https://www.mensaotabil.com/products-page/ebooks/how-to-make-wise-decisions/"><img src="img/books/Howtomake.png" class="img_quote" style="float: left;"/></a>
+					<span class="date"><a href="https://www.mensaotabil.com/products-page/ebooks/how-to-make-wise-decisions/">How to Make Wise Decisions</a></span>
 					<br/>
-					Title:
+					Price: $2.00
 					<br/>
-					Summary:
-					<br/>
-					Details:
-				</p>
-				<p class="p_quotes">
-					<!-- <img src="img/2_1.jpg" class="img_quote" style="float: left;"/> -->
-					<br/>
-					Title:
-					<br/>
-					Summary:
-					<br/>
-					Details:
+					Receiving good advice is an art that can be perfected by practice. The quality of our lives is influenced by the people from whom we receive advice. For each one of us, there are people who enrich our lives and others who deplete our lives because of the quality of advice they give to us.
+					How to Make Wise Decisions presents as systematic and yet simple approach that involves six key steps to receiving good advice and making quality decisions which will help you advance in life.
 				</p>
 				<p class="p_quotes">
 					<!-- <img src="img/2_1.jpg" class="img_quote" style="float: left;"/> -->

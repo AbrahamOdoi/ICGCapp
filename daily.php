@@ -62,7 +62,7 @@
 
 			<div id='content' data-role='content'>
 				<!-- <p style='vertical-align:center;color: gray;'>
-					Daily Devotion<img src="img/2_1.jpg" class="img_quote" style="float: left;"/>
+				Daily Devotion<img src="img/2_1.jpg" class="img_quote" style="float: left;"/>
 				</p> -->
 
 				<!-- <p id="displays" style='display: non;'>
@@ -82,40 +82,37 @@
 				?>
 				</p> -->
 				<div id='content' data-role='content'>
-					
-					<p class="p_quotes">
-						Day1:<br/>
-						Message:<br/><br/><br/><br/><br/><br/><br/><br/>
-					</p>
-					<p class="p_quotes">
-						Day2:<br/>
-						Message:<br/><br/><br/><br/><br/><br/><br/><br/>
-					</p>
-					<p class="p_quotes">
-						Day3:<br/>
-						Message:<br/><br/><br/><br/><br/><br/><br/><br/>
-					</p>
-					<p class="p_quotes">
-						Day4:<br/>
-						Message:<br/><br/><br/><br/><br/><br/><br/><br/>
-					</p>
-					<p class="p_quotes">
-						Day5:<br/>
-						Message:<br/><br/><br/><br/><br/><br/><br/><br/>
-					</p>
-					<p class="p_quotes">
-						Day6:<br/>
-						Message:<br/><br/><br/><br/><br/><br/><br/><br/>
-					</p>
-					<p class="p_quotes">
-						Day7:<br/>
-						Message:<br/><br/><br/><br/><br/><br/><br/><br/>
-					</p>
-					<p class="p_quotes">
-						Day8:<br/>
-						Message:<br/><br/><br/><br/><br/><br/><br/><br/>
-					</p>
-					
+					<span class="date">1st February</span><br/>
+					<img src="img/flower1.jpg" height="10%" />
+					<div class="p_quotes">
+						<span class="date">GENESIS 22:14 </span><br/>
+						14 and Abraham calleth the name of that place `Jehovah-Jireh,' because it is said this day in the mount, `Jehovah doth provide.'
+
+						One of God's names is Jehovah Jireh which is a compound name meaning the Lord sees ahead and provides.
+
+						“Jehovah-Jireh” means, “The Lord will see to it,” that is, “The Lord will provide.”
+
+						My car recently quit running when I was in another city. As I prayed and looked to God, He helped me to work things out.
+
+						While I didn't actually complain to God about having car trouble -- the thoughts were certainly there. (Thoughts like the repair money could have been put to a better use.)
+
+						I believe God spoke to my heart that He could have kept my car running perfectly. Or, He could have supernaturally healed it. But if He would have, then I would not have experienced Him as the One who sees ahead and provides, which He did.
+
+						It was not the first time God had provided for me, of course. But it is still always thrilling to know that God cares for you, and that He makes plans for your provision, even before you know you will need it.
+
+						Our God is mighty -- and wonderful!
+
+						SAY THIS: God always sees ahead and provides for me.
+						<br/>
+						<br/>
+						<br/>
+						<br/>
+						<br/>
+						<br/>
+						<br/>
+						<br/>
+					</div>
+
 				</div>
 			</div>
 

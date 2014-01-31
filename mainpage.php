@@ -47,25 +47,28 @@
 				</div>
 
 				<div class="wrapper1">
-					<a href="quotes.php" data-transition='flip' data-ajax="false" class="span_menu" style="color: black; border-left: 1px solid gray;"><img src="icons/quote.png" />
+					<a href="mainpage.php" data-transition='flip'rel="external" class="span_menu" style="color: black; border-left: 1px solid gray;"><img src="icons/home.png" />
 					<br/>
-					Quotes</a>
-					<a href="daily.php" rel="external" data-transition='slide' class="span_menu" style="color: black;"><img src="icons/devotion.png" />
+					HOME</a>
+					<a href="daily.php" data-transition='slide' class="span_menu" style="color: black;"><img src="icons/devotion.png" />
 					<br/>
 					Daily</a>
-					<a href="pages/sermon.php" data-transition='slide' class="span_menu" style="color: black;"><img src="icons/sermon.png" />
+					<a href="quotes.php" data-transition='flip' class="span_menu" style="color: black; border-left: 1px solid gray;"><img src="icons/quote.png" />
 					<br/>
-					Streaming</a>
-					<a href="pages/books.php" data-transition='slide' class="span_menu" style="color: black;"><img src="icons/books.png" />
+					Quotes</a>
+					<a href="sermon.php" data-transition='slide' class="span_menu" style="color: black;"><img src="icons/sermon.png" />
+					<br/>
+					Sermon</a>
+					<a href="books.php" data-transition='slide' class="span_menu" style="color: black;"><img src="icons/books.png" />
 					<br/>
 					Books</a>
-					<a href="pages/videos.php" data-transition='slide' class="span_menu" style="color: black;"><img src="icons/videos.png" />
+					<a href="videos.php" data-transition='slide' class="span_menu" style="color: black;"><img src="icons/videos.png" />
 					<br/>
 					Videos</a>
-					<a href="pages/loc.php" data-transition='slide' class="span_menu" style="color: black;"><img src="icons/loc.png" />
+					<a href="loc.php" data-transition='slide' class="span_menu" style="color: black;"><img src="icons/loc.png" />
 					<br/>
 					Near You</a>
-					<a href="pages/more.php" data-transition='slide' class="span_menu" style="color: black;"><img src="icons/more.png" />
+					<a href="more.php" data-transition='slide' class="span_menu" style="color: black;"><img src="icons/more.png" />
 					<br/>
 					More...</a>
 				</div>
