@@ -80,64 +80,12 @@
 					Price: $2.00
 					<br/>
 					Receiving good advice is an art that can be perfected by practice. The quality of our lives is influenced by the people from whom we receive advice. For each one of us, there are people who enrich our lives and others who deplete our lives because of the quality of advice they give to us.
-					How to Make Wise Decisions presents as systematic and yet simple approach that involves six key steps to receiving good advice and making quality decisions which will help you advance in life.
+					How to Make Wise Decisions presents as systematic and yet simple approach that involves six key steps to receiving good advice and making quality decisions which will help you advance in life.....
 					<br/>
-					Recevoir de bons conseils est un art qui peut être perfectionné par la pratique. La qualité de notre vie est influencée par les gens de qui nous recevons des conseils. Pour chacun de nous, il ya des gens qui enrichissent nos vies et d'autres qui appauvrissent nos vies à cause de la qualité des conseils qu'ils donnent à nous.
+					En l'absence de vision claire de l'endroit où nous allons, nous sommes tenus de se contenter de n'importe quelle destination. Sans vision, nous acceptons facilement tout ce qui vient à notre rencontre et permettre aux autres de définir l'ordre du jour de nos vies. C'est pourquoi nous Ned se fixer des objectifs et de passer à leur réalisation. Fixer des objectifs exige que vous apprenez de vos expériences passées, retrouver vos possibilités actuelles et de lancer hardiment dans votre avenir
+					...
 				</p>
-				<p class="p_quotes">
-					<!-- <img src="img/2_1.jpg" class="img_quote" style="float: left;"/> -->
-					<br/>
-					Title:
-					<br/>
-					Summary:
-					<br/>
-					Details:
-				</p>
-				<p class="p_quotes">
-					<!-- <img src="img/2_1.jpg" class="img_quote" style="float: left;"/> -->
-					<br/>
-					Title:
-					<br/>
-					Summary:
-					<br/>
-					Details:
-				</p>
-				<p class="p_quotes">
-					<!-- <img src="img/2_1.jpg" class="img_quote" style="float: left;"/> -->
-					<br/>
-					Title:
-					<br/>
-					Summary:
-					<br/>
-					Details:
-				</p>
-				<p class="p_quotes">
-					<!-- <img src="img/2_1.jpg" class="img_quote" style="float: left;"/> -->
-					<br/>
-					Title:
-					<br/>
-					Summary:
-					<br/>
-					Details:
-				</p>
-				<p class="p_quotes">
-					<!-- <img src="img/2_1.jpg" class="img_quote" style="float: left;"/> -->
-					<br/>
-					Title:
-					<br/>
-					Summary:
-					<br/>
-					Details:
-				</p>
-				<p class="p_quotes">
-					<!-- <img src="img/2_1.jpg" class="img_quotes"  height='10px' width='10px' style="float: left; height:10%; width:10%;"/> -->
-					<br/>
-					Title:
-					<br/>
-					Summary:
-					<br/>
-					Details:
-				</p>
+
 			</div>
 
 			<div id='footer' data-role='footer'>
