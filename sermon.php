@@ -82,9 +82,9 @@
 					<br/>
 					<br/>
 				</div>
-				<audio controls="controls"id='audio'>
+				<!-- <audio controls="controls"id='audio'>
 					<source src="audio/Mothers legacy1.mp3" type="audio/mpeg">
-				</audio>
+				</audio> -->
 				<br/>
 				<span class="date">12th January 2014</span>
 				<div class="p_quotes">
@@ -105,9 +105,9 @@
 					<br/>
 					<br/>
 				</div>
-				<audio controls="controls" id='audio'>
+				<!-- <audio controls="controls" id='audio'>
 					<source src="audio/Mothers Legacy2.mp3" type="audio/mpeg">
-				</audio>
+				</audio> -->
 			</div>
 
 			<div id='footer' data-role='footer'>
