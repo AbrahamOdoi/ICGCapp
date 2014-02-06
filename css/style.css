@@ -7,7 +7,7 @@ body {
 	width: 100%;
 }
 #content{
-	height: 10%;
+	max-height: 10%;
 	overflow-y: hidden;
 }
 
@@ -19,9 +19,14 @@ a:visited {
 	color: #000000;
 }
 .nivoSliders {
+	position:fixed;
+	bottom:5px;
+	margin:auto;
+	text-align:center;
 	white-space: nowrap;
 	overflow-x: scroll;
-	width: 100%;
+	/*max-height:5%;*/
+	max-width: 90%;
 }
 .img_slide {
 	/*width: 100%;*/
