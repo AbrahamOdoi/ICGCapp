@@ -113,7 +113,10 @@ a:visited {
 .label {
 	font-weight: bolder;
 }
-
+#audio{
+	width:100%;
+	margin: auto;
+}
 .p_quotes {
 	word-wrap: break-word;
 	font-size: 15px;
