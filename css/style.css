@@ -2,7 +2,9 @@ body {
 	font-family: Arial, Helvetica, Garuda, sans-serif;
 	background: white;
 }
-
+#page{
+	background: white;
+}
 .splashimg {
 	width: 100%;
 }
@@ -19,9 +21,10 @@ a:visited {
 	color: #000000;
 }
 .nivoSliders {
-	position:fixed;
-	bottom:5px;
+	/*position:fixed;
+	bottom:5px;*/
 	margin:auto;
+	margin-top:10px;
 	text-align:center;
 	white-space: nowrap;
 	overflow-x: scroll;

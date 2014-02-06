@@ -36,7 +36,7 @@
 		</script> -->
 	</head>
 	<body onload="updateIndicator()" ononline="updateIndicator()" onoffline="updateIndicator()">
-		<div id='page' data-role='page'  data-dom-cache="true">
+		<div id='page' data-role='page'  data-dom-cache="true" style="background: white;">
 
 			<div id='header' data-role='header' >
 				<div class="div_header">
@@ -72,14 +72,6 @@
 					<br/>
 					More...</a>
 				</div>
-
-			</div>
-
-			<div id='content' data-role='content'>
-
-				<!-- IMAGE SLIDER -->
-				<!-- <div class="slider-wrapper theme-defaults"> -->
-
 				<div id="sliders" class="nivoSliders">
 					<img src="img/slide/1.jpg" data-thumb="img/slide/otabil1.jpg"  alt="ICGC Slide" class="img_slide"/>
 					<img src="img/slide/2.jpg" data-thumb="img/slide/otabil2.jpg" alt="ICGC Slide"  class="img_slide"/>
@@ -87,6 +79,12 @@
 					<img src="img/slide/4.jpg" data-thumb="img/slide/otabil4.jpg"  alt="ICGC Slide"  class="img_slide"/>
 					<img src="img/slide/5.jpg" data-thumb="img/slide/otabil4.jpg"  alt="ICGC Slide"  class="img_slide"/>
 				</div>
+			</div>
+
+			<div id='content' data-role='content'>
+
+				<!-- IMAGE SLIDER -->
+				<!-- <div class="slider-wrapper theme-defaults"> -->
 
 				<!-- </div> -->
 				<!-- END OF IMAGE SLIDER -->
