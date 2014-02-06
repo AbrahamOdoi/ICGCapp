@@ -29,7 +29,7 @@
 
 			<div id='header' data-role='header' >
 				<div class="div_header">
-					QUOTES
+					DAILY
 				</div>
 				<div class="wrapper1">
 					<a href="mainpage.php" data-transition='flip'  class="span_menu" style="color: black; border-left: 1px solid gray;"><img src="icons/home.png" />
@@ -55,7 +55,7 @@
 					Near You</a>
 					<a href="more.php" data-transition='slide' class="span_menu" style="color: black;"><img src="icons/more.png" />
 					<br/>
-					More...</a>
+					Donate</a>
 				</div>
 
 			</div>

@@ -29,7 +29,7 @@
 
 			<div id='header' data-role='header' >
 				<div class="div_header">
-					QUOTES
+					DONATION
 				</div>
 				<div class="wrapper1">
 					<a href="mainpage.php" data-transition='flip'rel="external" class="span_menu" style="color: black; border-left: 1px solid gray;"><img src="icons/home.png" />
@@ -61,30 +61,34 @@
 			</div>
 
 			<div id='content' data-role='content'>
-				<p style='vertical-align:center;color: gray;'>Dr. Otabil's quotes<img src="img/2_1.jpg" class="img_quote" style="float: left;"/></p>
-				<p class="p_quotes">
-					Delays are not denials. Waiting is not wasting. Though a vision tarries, wait for it. 
-					It shall come to pass.
-				</p>
-				<p class="p_quotes">
-					Every question has an answer. Every problem has a solution. Every journey has a path. 
-					Keep asking...it shall be given to you. Keep seeking...you will find. Keep knocking...it will open.
-				</p>
-				<p class="p_quotes">
-					There's no scarcity in God's economy
-				</p>
-				<p class="p_quotes">
-					USE WHAT YOU HAVE. Don't sit and hope for what others have. David had five stones; it brought down Goliath. 
-					A little boy had five loaves; it fed five thousand. Don't cry over the little in your hands. Work with it. 
-					Put it in God's hands. He can grow your tiny seeds into a mighty forest.
-				</p>
-				<p class="p_quotes">
-					Our spiritual and mental capacity determines how much we can receive from God. It's time to STRETCH spiritually and 
-					mentally. No laziness. No excuses. No complacency. STRETCH. Push. Perspire. Persevere.
-				</p>
-				<p class="p_quotes">
-					TIME IS PRECIOUS. What has to be done today must not be done tomorrow. REDEEM THE TIME.
-				</p>
+				<form>
+					Full Name:
+					<input type="text" name="name" value="" id="name"/>
+					Email:
+					<input type="email" name="email" value="" id="email"/>
+					Phone:
+					<input type="text" name="phone" value="" id="pnone"/>
+					Type of Payment:
+					<select name="payment">
+						<option Value='none'>PLEASE SELECT</option>
+						<option Value='Donation'>Donation</option>
+						<option Value='Firstfruit'>Firstfruit</option>
+						<option Value='Pledge'>Pledge</option>
+						<option Value='Offering'>Offering</option>
+					</select>
+					Additional Info: 					<textarea name="extra"></textarea>
+					Currency:
+
+
+					<select name="currency">
+						<option Value='cedis'>GHC</option>
+					</select>
+					Amount:
+					<input type="text" name="amount" id="amount" />
+					
+					<input type="submit" name="donate" />
+
+				</form>
 			</div>
 
 			<div id='footer' data-role='footer'>

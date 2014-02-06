@@ -55,7 +55,7 @@
 					Near You</a>
 					<a href="more.php" data-transition='slide' class="span_menu" style="color: black;"><img src="icons/more.png" />
 					<br/>
-					More...</a>
+					Donate</a>
 				</div>
 
 			</div>
@@ -71,6 +71,7 @@
 					<br/>
 					With no clear sense of where we are going, we are bound to settle for any destination. Without vision, we easily accept anything that comes our way and allow other people to set the agenda for our lives. That is why we ned to set goals and go on to achieve them. Setting goals requires that you learn from your past experiences, locate your current opportunities and launch boldly into your future.
 					<br />
+					<br />
 					Comment prendre des décisions éclairées présente comme approche systématique et pourtant simple qui comporte six étapes clés à recevoir de bons conseils et de prendre des décisions de qualité qui vous aideront à progresser dans la vie.
 				</div>
 				<p class="p_quotes">
@@ -82,8 +83,9 @@
 					Receiving good advice is an art that can be perfected by practice. The quality of our lives is influenced by the people from whom we receive advice. For each one of us, there are people who enrich our lives and others who deplete our lives because of the quality of advice they give to us.
 					How to Make Wise Decisions presents as systematic and yet simple approach that involves six key steps to receiving good advice and making quality decisions which will help you advance in life.....
 					<br/>
+					<br/>
 					En l'absence de vision claire de l'endroit où nous allons, nous sommes tenus de se contenter de n'importe quelle destination. Sans vision, nous acceptons facilement tout ce qui vient à notre rencontre et permettre aux autres de définir l'ordre du jour de nos vies. C'est pourquoi nous Ned se fixer des objectifs et de passer à leur réalisation. Fixer des objectifs exige que vous apprenez de vos expériences passées, retrouver vos possibilités actuelles et de lancer hardiment dans votre avenir
-					...
+					.....
 				</p>
 
 			</div>
