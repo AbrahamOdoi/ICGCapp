@@ -6,6 +6,10 @@ body {
 .splashimg {
 	width: 100%;
 }
+#content{
+	height: 10%;
+	overflow-y: hidden;
+}
 
 a {
 	text-decoration: none;
@@ -18,11 +22,10 @@ a:visited {
 	white-space: nowrap;
 	overflow-x: scroll;
 	width: 100%;
-	height: auto;
 }
 .img_slide {
-	width: 100%;
-	height: 100%
+	/*width: 100%;*/
+	/*height: 90%*/
 }
 /*-----------------------------------------MAIN PAGE-------------------------------------MAIN PAGE-------------------------------------MAIN PAGE*/
 .div_header {
