@@ -95,8 +95,8 @@
 				</p>
 			</div>
 
-			<div id='footer' data-role='footer'>
-			</div>
+			<!-- <div id='footer' data-role='footer'>
+			</div> -->
 		</div>
 
 	</body>
