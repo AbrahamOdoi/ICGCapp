@@ -55,7 +55,7 @@
 					Near You</a>
 					<a href="more.php" data-transition='slide' class="span_menu" style="color: black;"><img src="icons/more.png" />
 					<br/>
-					More...</a>
+					Donate</a>
 				</div>
 
 			</div>

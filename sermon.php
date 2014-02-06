@@ -29,7 +29,7 @@
 
 			<div id='header' data-role='header' >
 				<div class="div_header">
-					QUOTES
+					SERMON
 				</div>
 				<div class="wrapper1">
 					<a href="mainpage.php" data-transition='flip'rel="external" class="span_menu" style="color: black; border-left: 1px solid gray;"><img src="icons/home.png" />
@@ -55,7 +55,7 @@
 					Near You</a>
 					<a href="more.php" data-transition='slide' class="span_menu" style="color: black;"><img src="icons/more.png" />
 					<br/>
-					More...</a>
+					Donate</a>
 				</div>
 
 			</div>
@@ -78,9 +78,13 @@
 					Lessons:  Rejoicing in the Lord, not in what you've done
 					<br/>
 					<br/>
+
 					<br/>
 					<br/>
 				</div>
+				<audio controls="controls"id='audio'>
+					<source src="audio/Mothers legacy1.mp3" type="audio/mpeg">
+				</audio>
 				<br/>
 				<span class="date">12th January 2014</span>
 				<div class="p_quotes">
@@ -101,7 +105,9 @@
 					<br/>
 					<br/>
 				</div>
-
+				<audio controls="controls" id='audio'>
+					<source src="audio/Mothers Legacy2.mp3" type="audio/mpeg">
+				</audio>
 			</div>
 
 			<div id='footer' data-role='footer'>
